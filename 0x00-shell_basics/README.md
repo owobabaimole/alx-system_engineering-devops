@@ -5,4 +5,5 @@
 5. Display current directory contents, including hidden files (starting with .). Use the long format.
 6. Create a script that creates a directory named
 7. Move the file betty from /tmp/ to /tmp/my_first_directory.
+8. Delete the file betty from another directory
 
